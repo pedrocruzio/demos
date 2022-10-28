@@ -2,10 +2,13 @@
 
 This is a demo on how to use tea to run a simple python script.
 
-## Getting Started
-```
-tea +python python hello.py
-```
+## Install
+
+`tea +python`
+
+## Hello World
+
+`tea python3 hello.py`
 
 ## Dependencies
 

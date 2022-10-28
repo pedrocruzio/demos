@@ -2,9 +2,14 @@
 
 This is a demo on how to use tea to create a node.js server.
 
+## Install Node.js
+```
+tea +nodejs.org
+```
+
 ## Getting Started
 ```
-tea +nodejs.org^18 npm run app.js
+tea node app.js
 ```
 
 ## Dependencies
