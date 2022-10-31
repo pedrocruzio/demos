@@ -3,13 +3,9 @@
 This is a demo on how to use tea to run a simple python script.
 
 ## Install
-
-`tea +python`
-
-## Hello World
-
-`tea python3 hello.py`
-
+```
+tea +python.org python hello.py
+```
 ## Dependencies
 
 | Project     | Version |
