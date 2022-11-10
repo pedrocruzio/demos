@@ -9,7 +9,7 @@ sh <(curl tea.xyz)
 ## Getting Started
 Make sure you have git installed. Clone the repo and change to the go directory.
 ```sh
-git clone 
+git clone https://github.com/pedrocruzio/demos/tree/demos/go
 cd go
 ```
 Now all you have to do is run the following command:
