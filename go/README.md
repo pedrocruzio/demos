@@ -16,6 +16,10 @@ Now all you have to do is run the following command:
 ```sh
 tea +go.dev go run demo.go
 ```
+If everything ran correctly, your terminal should output:
+```sh
+Hello, World!
+```
 ## Dependencies
 
 | Project     | Version |
